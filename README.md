@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project:
-    This project analyzes data from Kickstarters ran by Laura
+    - This project analyzes data from Kickstarters ran by Laura
 
 ### Purpose
-    Use the kickstarter data to easily compare projects.
+    - Use the kickstarter data to easily compare projects.
 
 ## Analysis and Challenges
    - Laura has worked on a wide vaiety kickstarters, some still on going. These projects have been all over the world. Most of the kickstarters have been for theater projects, with two thirds being sucessful and 24 still live. Music, technology and film were also very popular. Out of theater projects plays have been the most common and have been successful a little more than two thirds of the time. Almost a third of kickstarters, more in come catagories fail. Percentage funded is challenging as so many projects are less than one percent funded. This makes it difficult to do much with the data
@@ -15,11 +15,11 @@
    
 ### Analysis of Outcomes Based on Goals
 
-   -Create a chart grouping the goal amounts to show how many in each goal range were successful, cancled or failed. Using this data show the percentage of successful, cancled or failed projects. This allows you to quickly tell what percentage of successful kickstarters there are for each price range. 
+   - Create a chart grouping the goal amounts to show how many in each goal range were successful, cancled or failed. Using this data show the percentage of successful, cancled or failed projects. This allows you to quickly tell what percentage of successful kickstarters there are for each price range. 
 
 ### Challenges and Difficulties Encountered
 
-    -Most difficulties were small, spelling is very important for courtifs functions. The process for filling out the table for Outcomes Based on Goals was a bit slow and repetative. 
+    - Most difficulties were small, spelling is very important for courtifs functions. The process for filling out the table for Outcomes Based on Goals was a bit slow and repetative. 
 
 ## Results
 
